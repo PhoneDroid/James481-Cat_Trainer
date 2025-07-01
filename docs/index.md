@@ -119,7 +119,7 @@ Along with some additional features and software tuning still to be done, I did 
 
 __DISCLAIMER:__ _Although not a particularly dangerous device by electrical standards, this device involves electricity and water (never good when they come together) and possibly other hazards, and suitable judgment must be exercised to determine if the device is built correctly and is safe to operate. No warranty of this device, design or associated software and other materials to be free of defect is provided or implied, and any actual usage of this device is at your own risk! The author disclaims any responsibility for any mishap or zombie apocalypse you may encounter._
 
-All the information you might need to build your own is probably somewhere in this repository, including the software for the base and sensor nodes (as Arduino sketches, able to be loaded to boards via Arduino / Teensyduino IDE), [KiCad](http://kicad-pcb.org/) circuit diagrams and PCB layouts, and even some [FreeCAD](http://www.freecadweb.org/) 3D models of the finished units to explore.
+All the information you might need to build your own is probably somewhere in this repository, including the software for the base and sensor nodes (as Arduino sketches, able to be loaded to boards via Arduino / Teensyduino IDE), [KiCad](http://kicad-pcb.org/) circuit diagrams and PCB layouts, and even some [FreeCAD] 3D models of the finished units to explore.
 
 That said, be prepared for some troubleshooting, editing of code, or making adaptations to the design to suit your needs and / or get it all working, this isn't a finished product and will require heavy tinkering!
 
@@ -156,3 +156,5 @@ __Licensing:__ It's come to my attention that US patent law (where the patent fo
 [base_mount]: http://imgur.com/wQvpuyJl.png
 [base_setup]: http://imgur.com/3iBZtJrl.png
 [base_front]: http://imgur.com/htidU3dl.png
+
+[FreeCAD]: https://freecad.org
